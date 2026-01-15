@@ -1,10 +1,11 @@
-# first_app
+# FIRST_APP
 
 Mobile application developed with **Flutter and Dart** as a first personal project.  
 The app displays a dice on screen that changes its face every time the user presses a button, based on a randomly generated number.
 
 ## Preview
-![Dice App Preview](screenshots/dice_app.png) (screenshots/dice_app2.png)
+![Dice App Preview](screenshots/dice_app.png) 
+![Dice App Preview](screenshots/dice_app2.png)
 
 ## Features
 - Random number generation
@@ -29,14 +30,17 @@ The app displays a dice on screen that changes its face every time the user pres
 
 2. Navigate to the project directory:
 
+    ```bash
     cd first_app
 
 3. Install dependencies:
 
+    ```bash
     flutter pub get
 
 4. Run the application:
 
+    ```bash
     flutter run
 
 ## Usage
@@ -47,6 +51,7 @@ The app displays a dice on screen that changes its face every time the user pres
 
 ## Project Structure
 
+```text
 FIRST_APP/
 ├── assets/
 │   ├── images/           # Images used by the app (dice faces)
@@ -66,7 +71,7 @@ FIRST_APP/
 │   └── widget_test.dart
 ├── .gitignore            # Files ignored by Git
 ├── pubspec.yaml          # Dependencies and configuration
-├── README.md             # Project documentation
+├── README.md             # Project documentation```
 
 
 ## Project Status
