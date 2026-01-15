@@ -4,8 +4,10 @@ Mobile application developed with **Flutter and Dart** as a first personal proje
 The app displays a dice on screen that changes its face every time the user presses a button, based on a randomly generated number.
 
 ## Preview
-![Dice App Preview](screenshots/dice_app.png) 
-![Dice App Preview](screenshots/dice_app2.png)
+
+![Dice App Preview](assets/screenshots/dice_app.png) 
+
+![Dice App Preview](assets/screenshots/dice_app2.png)
 
 ## Features
 - Random number generation
