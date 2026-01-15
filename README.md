@@ -5,10 +5,13 @@ The app displays a dice on screen that changes its face every time the user pres
 
 ## Preview
 
-<img src="assets/screenshots/dice_app.png" alt="Dice App Preview" width="200">
-
-<img src="assets/screenshots/dice_app2.png" alt="Dice App Preview" width="200">
-
+<table>
+<tr>
+  <td><img src="assets/screenshots/dice_app.png" alt="Dice App Preview 1" width="250"></td>
+  <td><img src="assets/screenshots/dice_app2.png" alt="Dice App Preview 2" width="250"></td>
+  <td><img src="assets/screenshots/dice_app3.png" alt="Dice App Preview 3" width="250"></td>
+</tr>
+</table>
 
 ## Features
 - Random number generation
