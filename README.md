@@ -77,7 +77,8 @@ FIRST_APP/
 │   └── widget_test.dart
 ├── .gitignore            # Files ignored by Git
 ├── pubspec.yaml          # Dependencies and configuration
-├── README.md             # Project documentation```
+├── README.md             # Project documentation
+```
 
 
 ## Project Status
