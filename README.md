@@ -1,4 +1,4 @@
-# FIRST_APP
+# DICE APP
 
 Mobile application developed with **Flutter and Dart** as a first personal project.  
 The app displays a dice on screen that changes its face every time the user presses a button, based on a randomly generated number.
